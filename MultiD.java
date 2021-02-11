@@ -11,7 +11,7 @@ public class MultiD {
 }
 
 
-
+// uncomment and comment above class. :)
 /*
 class MultiD {
     public static void main(String[] args) {
